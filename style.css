@@ -1,0 +1,16 @@
+#resultButton{
+    font-size: 16px;
+    background-color: rgb(91, 60, 86);
+    color: white;
+    border: 0px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.question{
+    font-weight: bold;
+}
+
+.answers{
+    margin-bottom: 20px;
+}
