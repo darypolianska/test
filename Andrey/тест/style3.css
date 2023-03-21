@@ -1,0 +1,34 @@
+#resultButton{
+    font-size: 16px;
+    background-color: green;
+    color: aquamarine;
+    border: 0px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.question{
+    font-weight: bold;
+}
+.answers{
+    margin-bottom: 20px;
+}
+html{
+    background: linear-gradient( rgba(0, 0, 0, 0.801), rgba(0, 0, 0, 0.5) ), url('bgjava.png');
+    background-size: contain;
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    text-align: center;
+    font-family: 'Montserrat';
+    font-size: 24px;  
+    color: #FFFFFF; 
+}
+
+.back{
+    text-align: left;
+}
+.mn{
+    text-decoration: none;
+    color: #FFFFFF; 
+    font-size: 24px;
+    font-family: 'Montserrat';
+}

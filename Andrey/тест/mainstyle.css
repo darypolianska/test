@@ -1,0 +1,43 @@
+html{
+    background: linear-gradient( rgba(0, 0, 0, 0.616), rgba(0, 0, 0, 0.233) ),url('bgmain.jpg');
+    background-size: contain;
+    background-attachment:fixed;
+    background-repeat:repeat;
+    text-align: center;
+    font-family: 'Montserrat';
+    font-size: 24px;  
+    color: #ffffff; 
+}
+.test{
+    text-align: left;
+}
+.op{
+    text-decoration: none;
+    color: #ffffff; 
+    font-size: 24px; 
+    font-family: 'Montserrat';
+    
+}
+.testfort{
+    text-align: left;
+}
+.fort{
+    text-decoration: none;
+    color: #ffffff; 
+    font-size: 24px; 
+    font-family: 'Montserrat';
+    text-align: left;
+}
+.ezlvl{
+    text-align: left;
+}
+.testjava{
+    text-align: left;
+}
+.java{
+    text-decoration: none;
+    color: #ffffff; 
+    font-size: 24px; 
+    font-family: 'Montserrat';
+    text-align: left;
+}
